@@ -11,6 +11,7 @@ author 'Michal Špaček <skim@cpan.org>';
 license 'bsd';
 name 'Random-Set';
 requires 'Class::Utils' => 0.03;
+requires 'perl' => '5.8.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Random-Set';
 resources 'homepage' => 'https://github.com/tupinek/Random-Set';
