@@ -19,3 +19,4 @@ t/Random-Set/00-use.t
 t/Random-Set/01-version.t
 t/Random-Set/02-pod_coverage.t
 t/Random-Set/03-pod.t
+t/Random-Set/04-new.t
