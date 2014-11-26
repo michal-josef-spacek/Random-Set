@@ -1,5 +1,6 @@
 0.03
  - Fix LICENSE file.
+ - Update Module::Install to 1.14 version.
 
 0.02 2014-08-13T09:44:48+02:00
  - Add minimum version of Perl.
