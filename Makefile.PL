@@ -7,7 +7,7 @@ use inc::Module::Install;
 
 # Definition.
 abstract 'Class for random set generation';
-author 'Michal Špaček <skim@cpan.org>';
+author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Random-Set';
 requires 'Class::Utils' => 0.03;
