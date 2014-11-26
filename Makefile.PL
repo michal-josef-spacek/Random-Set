@@ -10,6 +10,7 @@ abstract 'Class for random set generation';
 author 'Michal Spacek <skim@cpan.org>';
 license 'bsd';
 name 'Random-Set';
+readme_from 'Set.pm';
 requires 'Class::Utils' => 0.03;
 requires 'perl' => '5.8.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
