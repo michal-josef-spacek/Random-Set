@@ -2,6 +2,7 @@
  - Add readme_from directive to Makefile.PL.
  - Fix LICENSE file.
  - Update Module::Install to 1.14 version.
+ - Update LICENSE AND COPYRIGHT section in doc to my standard.
 
 0.02 2014-08-13T09:44:48+02:00
  - Add minimum version of Perl.
