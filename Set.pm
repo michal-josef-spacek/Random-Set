@@ -143,7 +143,13 @@ L<Error::Pure>.
 
 =head1 SEE ALSO
 
-L<Random::Day>.
+=over
+
+=item L<Random::Day>
+
+Class for random day generation.
+
+=back
 
 =head1 REPOSITORY
 
