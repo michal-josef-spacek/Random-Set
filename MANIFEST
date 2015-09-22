@@ -1,6 +1,8 @@
 Changes
 examples/ex1.pl
 inc/Module/Install.pm
+inc/Module/Install/AuthorRequires.pm
+inc/Module/Install/AuthorTests.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
 inc/Module/Install/Fetch.pm
@@ -16,9 +18,9 @@ META.yml
 README
 Set.pm
 SIGNATURE
-t/Random-Set/00-use.t
-t/Random-Set/01-version.t
-t/Random-Set/02-pod_coverage.t
-t/Random-Set/03-pod.t
-t/Random-Set/04-new.t
-t/Random-Set/05-get.t
+t/Random-Set/01-use.t
+t/Random-Set/02-version.t
+t/Random-Set/03-new.t
+t/Random-Set/04-get.t
+xt/Random-Set/01-pod_coverage.t
+xt/Random-Set/02-pod.t

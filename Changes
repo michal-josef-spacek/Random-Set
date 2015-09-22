@@ -1,4 +1,5 @@
 0.04
+ - Move author tests to xt/ directory.
  - Remove trailing whitespace.
  - Update copyright years.
 
