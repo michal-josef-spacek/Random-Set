@@ -129,7 +129,7 @@ Random::Set - Class for random set generation.
 
  # Get random data.
  my $random = $obj->get;
- 
+
  # Print out.
  print $random."\n";
 
