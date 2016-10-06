@@ -1,5 +1,6 @@
 0.05
  - Fix author dependencies.
+ - Fix minimal Perl version in Makefile.PL.
 
 0.04 2015-09-22T16:20:18+02:00
  - Move author tests to xt/ directory.

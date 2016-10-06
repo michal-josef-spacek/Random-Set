@@ -16,10 +16,10 @@ author_requires 'Test::Pod' => 0;
 author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 name 'Random-Set';
+perl_version 5.008;
 readme_from 'Set.pm';
 recursive_author_tests('xt');
 requires 'Class::Utils' => 0.03;
-requires 'perl' => '5.8.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Random-Set';
 resources 'homepage' => 'https://github.com/tupinek/Random-Set';
