@@ -1,4 +1,5 @@
 0.05
+ - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Fix author dependencies.
  - Fix minimal Perl version in Makefile.PL.
  - Update copyright years.
