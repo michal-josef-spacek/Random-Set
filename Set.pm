@@ -152,13 +152,13 @@ L<https://github.com/tupinek/Random-Set>
 
 =head1 AUTHOR
 
-Michal Špaček L<mailto:skim@cpan.org>
+Michal Josef Špaček L<mailto:skim@cpan.org>
 
 L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © Michal Špaček 2013-2016
+ © Michal Josef Špaček 2013-2016
  BSD 2-Clause License
 
 =head1 VERSION

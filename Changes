@@ -4,6 +4,7 @@
  - Fix minimal Perl version in Makefile.PL.
  - Remove trivial pragmas.
  - Update Module::Install to 1.18 version.
+ - Update author name.
  - Update copyright years.
 
 0.04 2015-09-22T16:20:18+02:00
