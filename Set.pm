@@ -1,14 +1,11 @@
 package Random::Set;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Modules.
 use Class::Utils qw(set_params);
 use Error::Pure qw(err);
 
-# Version.
 our $VERSION = 0.05;
 
 # Constructor.
@@ -112,11 +109,9 @@ Random::Set - Class for random set generation.
 
 =head1 EXAMPLE
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Random::Set;
 
  # Object.

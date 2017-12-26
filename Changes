@@ -2,6 +2,7 @@
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Fix author dependencies.
  - Fix minimal Perl version in Makefile.PL.
+ - Remove trivial pragmas.
  - Update Module::Install to 1.18 version.
  - Update copyright years.
 
