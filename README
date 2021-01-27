@@ -8,25 +8,32 @@ SYNOPSIS
      my $random = $obj->get;
 
 METHODS
-    "new(%params)"
-             Constructor.
+  "new"
+     my $obj = Random::Set->new(%params);
 
-            *       "precision"
+    Constructor.
 
-                     Precision.
-                     Default value is 100.
+    Returns instance of object.
 
-            *       "set"
+    *       "precision"
 
-                     Set definition.
-                     Set is array of arrays with pairs of probability and value.
-                     Default value is [].
-                     It is required.
-                     Sumary of probabilities must be 1.
+             Precision.
+             Default value is 100.
 
-    "get()"
-             Get random value from set.
-             Returns value from set.
+    *       "set"
+
+             Set definition.
+             Set is array of arrays with pairs of probability and value.
+             Default value is [].
+             It is required.
+             Sumary of probabilities must be 1.
+
+  "get"
+     my $random = $obj->get;
+
+    Get random value from set.
+
+    Returns value from set.
 
 ERRORS
      new():

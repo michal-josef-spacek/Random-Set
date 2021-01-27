@@ -71,11 +71,13 @@ Random::Set - Class for random set generation.
 
 =head1 METHODS
 
-=over 8
+=head2 C<new>
 
-=item C<new(%params)>
+ my $obj = Random::Set->new(%params);
 
- Constructor.
+Constructor.
+
+Returns instance of object.
 
 =over 8
 
@@ -94,12 +96,13 @@ Random::Set - Class for random set generation.
 
 =back
 
-=item C<get()>
+=head2 C<get>
 
- Get random value from set.
- Returns value from set.
+ my $random = $obj->get;
 
-=back
+Get random value from set.
+
+Returns value from set.
 
 =head1 ERRORS
 
