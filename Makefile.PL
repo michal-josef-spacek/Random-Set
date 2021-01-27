@@ -21,8 +21,8 @@ recursive_author_tests('xt');
 requires 'Class::Utils' => 0.03;
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Random-Set';
-resources 'homepage' => 'https://github.com/tupinek/Random-Set';
-resources 'repository' => 'git://github.com/tupinek/Random-Set';
+resources 'homepage' => 'https://github.com/michal-josef-spacek/Random-Set';
+resources 'repository' => 'git://github.com/michal-josef-spacek/Random-Set';
 test_requires 'English' => 0;
 test_requires 'Test::More' => 0;
 test_requires 'Test::NoWarnings' => 0;

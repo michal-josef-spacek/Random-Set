@@ -149,7 +149,7 @@ Class for random day generation.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Random-Set>
+L<https://github.com/michal-josef-spacek/Random-Set>
 
 =head1 AUTHOR
 
