@@ -27,7 +27,7 @@ requires:
   Class::Utils: 0.03
   perl: 5.8.0
 resources:
-  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Random-Set
+  bugtracker: https://github.com/michal-josef-spacek/Random-Set/issues
   homepage: https://github.com/michal-josef-spacek/Random-Set
   license: http://opensource.org/licenses/bsd-license.php
   repository: git://github.com/michal-josef-spacek/Random-Set
