@@ -3,6 +3,7 @@ NAME
 
 SYNOPSIS
      use Random::Set;
+
      my $obj = Random::Set->new(%params);
      my $random = $obj->get;
 

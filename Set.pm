@@ -65,6 +65,7 @@ Random::Set - Class for random set generation.
 =head1 SYNOPSIS
 
  use Random::Set;
+
  my $obj = Random::Set->new(%params);
  my $random = $obj->get;
 
