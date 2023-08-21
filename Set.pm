@@ -113,6 +113,8 @@ Returns value from set.
 
 =head1 EXAMPLE
 
+=for comment filename=random_fifty_fifty.pl
+
  use strict;
  use warnings;
 
