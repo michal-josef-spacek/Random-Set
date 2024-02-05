@@ -19,6 +19,7 @@ perl_version 5.008;
 readme_from 'Set.pm';
 recursive_author_tests('xt');
 requires 'Class::Utils' => 0.03;
+requires 'Error::Pure' => 0;
 resources 'bugtracker' => 'https://github.com/michal-josef-spacek/Random-Set/issues';
 resources 'homepage' => 'https://github.com/michal-josef-spacek/Random-Set';
 resources 'repository' => 'git://github.com/michal-josef-spacek/Random-Set';

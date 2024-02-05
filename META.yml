@@ -25,6 +25,7 @@ no_index:
     - xt
 requires:
   Class::Utils: 0.03
+  Error::Pure: 0
   perl: 5.8.0
 resources:
   bugtracker: https://github.com/michal-josef-spacek/Random-Set/issues
