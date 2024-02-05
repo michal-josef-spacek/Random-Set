@@ -83,16 +83,21 @@ Returns instance of object.
 
 =item * C<precision>
 
- Precision.
- Default value is 100.
+Precision.
+
+Default value is 100.
 
 =item * C<set>
 
- Set definition.
- Set is array of arrays with pairs of probability and value.
- Default value is [].
- It is required.
- Sumary of probabilities must be 1.
+Set definition.
+
+Set is array of arrays with pairs of probability and value.
+
+Default value is [].
+
+It is required.
+
+Sumary of probabilities must be 1.
 
 =back
 
